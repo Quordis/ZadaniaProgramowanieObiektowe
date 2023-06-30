@@ -1,0 +1,15 @@
+C:\Users\darel\Desktop\Nauka\Programowanie\Console\Zadanie4\Zadanie4\bin\Debug\net6.0\Zadanie4.exe
+C:\Users\darel\Desktop\Nauka\Programowanie\Console\Zadanie4\Zadanie4\bin\Debug\net6.0\Zadanie4.deps.json
+C:\Users\darel\Desktop\Nauka\Programowanie\Console\Zadanie4\Zadanie4\bin\Debug\net6.0\Zadanie4.runtimeconfig.json
+C:\Users\darel\Desktop\Nauka\Programowanie\Console\Zadanie4\Zadanie4\bin\Debug\net6.0\Zadanie4.dll
+C:\Users\darel\Desktop\Nauka\Programowanie\Console\Zadanie4\Zadanie4\bin\Debug\net6.0\Zadanie4.pdb
+C:\Users\darel\Desktop\Nauka\Programowanie\Console\Zadanie4\Zadanie4\obj\Debug\net6.0\Zadanie4.csproj.AssemblyReference.cache
+C:\Users\darel\Desktop\Nauka\Programowanie\Console\Zadanie4\Zadanie4\obj\Debug\net6.0\Zadanie4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darel\Desktop\Nauka\Programowanie\Console\Zadanie4\Zadanie4\obj\Debug\net6.0\Zadanie4.AssemblyInfoInputs.cache
+C:\Users\darel\Desktop\Nauka\Programowanie\Console\Zadanie4\Zadanie4\obj\Debug\net6.0\Zadanie4.AssemblyInfo.cs
+C:\Users\darel\Desktop\Nauka\Programowanie\Console\Zadanie4\Zadanie4\obj\Debug\net6.0\Zadanie4.csproj.CoreCompileInputs.cache
+C:\Users\darel\Desktop\Nauka\Programowanie\Console\Zadanie4\Zadanie4\obj\Debug\net6.0\Zadanie4.dll
+C:\Users\darel\Desktop\Nauka\Programowanie\Console\Zadanie4\Zadanie4\obj\Debug\net6.0\refint\Zadanie4.dll
+C:\Users\darel\Desktop\Nauka\Programowanie\Console\Zadanie4\Zadanie4\obj\Debug\net6.0\Zadanie4.pdb
+C:\Users\darel\Desktop\Nauka\Programowanie\Console\Zadanie4\Zadanie4\obj\Debug\net6.0\Zadanie4.genruntimeconfig.cache
+C:\Users\darel\Desktop\Nauka\Programowanie\Console\Zadanie4\Zadanie4\obj\Debug\net6.0\ref\Zadanie4.dll
